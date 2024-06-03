@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">One Click Drive Assignment</string>
+    <string name="calculate">Calculate</string>
+    <string name="enter_comma_separated_numbers">Enter comma separated numbers</string>
+    <string name="intersection">Intersection:</string>
+    <string name="union">Union:</string>
+    <string name="highest">Highest:</string>
+    <string name="please_enter_all_fields">Please enter all fields</string>
+    <string name="number_too_large">Number too large</string>
+    <string name="none">None</string>
+</resources>
